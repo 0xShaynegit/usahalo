@@ -100,7 +100,7 @@ export default function HeroSection() {
 
           <p
             className="text-black/70 text-base md:text-lg max-w-md mb-8 leading-relaxed"
-            style={{ fontFamily: "'Inter', ui-sans-serif, system-ui, sans-serif" }}
+            style={{ fontFamily: "'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif" }}
           >
             An automated, reward-powered digital dollar built for native passive earnings and
             effortless connection into DeFi.
